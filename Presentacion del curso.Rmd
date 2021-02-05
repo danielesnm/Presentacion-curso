@@ -1,0 +1,101 @@
+---
+title: "PROYECTO: Validación en población española de la Weekly Calendar Planning Activity y De Escala Cognitiva de las Actividades de la Vida Diaria"
+subtitle: "Población sana y con daño cerebral adquirido"
+author: "Author Name"
+institute: "NHS Organisation"
+date: "Presentation Date"
+output:
+  xaringan::moon_reader:
+    css: 
+      - default
+      - css/nhsr.css
+      - css/nhsr-fonts.css
+    lib_dir: libs
+    seal: false
+    nature:
+      highlightStyle: googlecode
+      highlightLines: true
+      highlightLanguage: ["r"]
+      countIncrementalSlides: false
+      ratio: "16:9"
+    includes:
+      after_body: [css/insert-logo.html]
+---
+
+```{r setup, include = FALSE}
+library(knitr)
+library(tidyverse)
+library(nhsrtheme)
+# set default options
+opts_chunk$set(echo = FALSE,
+               fig.width = 7.252,
+               fig.height = 4,
+               dpi = 300)
+
+# uncomment the following lines if you want to use the NHS-R theme colours by default
+# scale_fill_continuous <- partial(scale_fill_nhs, discrete = FALSE)
+# scale_fill_discrete <- partial(scale_fill_nhs, discrete = TRUE)
+# scale_colour_continuous <- partial(scale_colour_nhs, discrete = FALSE)
+# scale_colour_discrete <- partial(scale_colour_nhs, discrete = TRUE)
+```
+
+class: title-slide, left, bottom
+
+# `r rmarkdown::metadata$title`
+----
+## **`r rmarkdown::metadata$subtitle`**
+### `r rmarkdown::metadata$author`
+### `r rmarkdown::metadata$date`
+
+---
+class: center, middle
+
+# ¿Quiénes somos?
+
+.left[**Laboratorio de Neuropsicología y Actividades de la Vida Diaria (AVD)** del grupo de Neurociencia Cognitiva de _Centro de investigación Mente Cerebro y Comportamiento (CIMCYC)_, perteneciente a la **Universidad de Granada.**]  
+--
+
+.left[Llevamos varios años trabajando en esta temática a través de varios proyectos financiados por la Junta de Andalucía y el Ministerio de Educación y Ciencia. Este estudio es parte de un proyecto más amplio, titulado__ “Mecanismos cognitivos y cerebrales de la anosognosia en pacientes con daño cerebral adquirido: Nuevas estrategias de evaluación e intervención basadas en tareas cotidianas”__, financiado por el Ministerio de Economía y Empresa de España (MINECO, ref: PSI2016- 80331- P). Cuenta con un informe favorable del Comité de Ética de investigación biomédica de la Junta de Andalucía (AnosognosiaAVD2017, 0056-N-17 con fecha 01-02- 2017).]  
+--
+
+#**Integrantes del equipo de investigación**
+María Jesús Funes Molina (**IP**)  
+María Rodriguez Bailón  
+Josan  
+Daniel Salazar Frías (estudiante predoctoral)  
+Giorgia Ricchetti (estudiante predoctoral)  
+Alba Navarro Egido (estudiante predoctoral)
+
+---
+# Centros Participantes en este proyecto
+--
+
+## - Hospital Marítimo de Torremolinos
+## - Hospital Civil de Málaga
+##- Hospital Universitario Juan Ramón Jiménez de Huelva
+## - Hospital de NeuroTraumatología y Rehabilitación de Granada
+## - Centro de Rehabilitación del Daño Cerebral, AGREDACE
+## - AISSE Sinergia - Centro De Rehabilitación en Granada
+
+
+---
+class: inverse, middle, left
+
+
+---
+background-image: url(https://i0.wp.com/gcneuropsychology.com/wp-content/uploads/2019/12/cropped-Neurology-512.png?fit=512%2C512&ssl=1)
+
+--
+# A slide where bullets appear
+
+--
+
+* first point
+
+--
+
+* second point
+
+--
+
+* third point
