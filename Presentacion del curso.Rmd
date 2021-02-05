@@ -114,11 +114,26 @@ background-size: 45%
 * Consciencia de las dificultades  
 
 ---
-background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/AVD2.png?raw=true)
-background-position: 95% 50%
-background-size: 45%
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/performancebased.png?raw=true)
+background-position: 50% 100%
+background-size: 85%
 
-# Transferencia en la evaluación neuropsicológica: El problema de la validez ecológica/predictiva
+## Transferencia en la evaluación neuropsicológica:  El problema de la validez ecológica/predictiva  
+
+.pull-left[* Análisis componencial de procesos  
+* Teareas únicas  
+* Material artificial/novedoso: control experiencia previa  
+* Tareas no significativas  
+* Contexto artificial: laboratorio  
+* Dirigidas por terapeuta  
+]
+.pull-right[* Múltiples procesos interactúan entre sí  
+* Multitarea o Tareas con varios pasos secuenciales  
+* Objetos y tareas familiares  
+* Tareas significativas  
+* Contexto cotidiano y familiar  
+* Autodirigidas  
+]
 ---
 layout: false
 # A slide where bullets appear
