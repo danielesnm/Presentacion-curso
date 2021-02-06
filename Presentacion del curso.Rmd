@@ -229,7 +229,7 @@ class: inverse, middle, left
 ]
 
 .panel[.panel-name[**Items Cognitivos**]
-![](https://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true)
+![](https://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true) <!-- .element height="50%" width="50%" -->
 ]
 
 .panel[.panel-name[**Actividades incluidas en la escala**]
