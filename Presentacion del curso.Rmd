@@ -227,11 +227,21 @@ class: inverse, middle, left
 (Youngstrom et al., 2002).  
 - Tales actividades son incluidas en la clasificación realizada por la __Asociación Americana de Terapia Ocupacional (2008)__ y en la mayoría de las escalas globales tradicionales de funcionamiento diario comúnmente utilizado para el __diagnóstico clínico de demencia o DCL.__  
 ]
+
+.panel[.panel-name[**Items Cognitivos**]
+![](https://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true)
+]
+
 .panel[.panel-name[**Actividades incluidas en la escala**]
 ![](https://github.com/danielesnm/Presentacion-curso/blob/main/img/paper2.png?raw=true)
 
 ]
 ]
 
-
+---
+layout: false
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true)
+background-position: 50% 95%
+background-size: 50%
+#**Evaluación cognitiva y las Actividades Instrumentales de la Vida Diaria **
  
