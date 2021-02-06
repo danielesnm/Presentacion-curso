@@ -29,6 +29,8 @@ xaringanExtra::use_panelset()
 library(knitr)
 library(tidyverse)
 library(nhsrtheme)
+library(xaringanExtra)
+xaringanExtra::use_tile_view()
 # set default options
 opts_chunk$set(echo = FALSE,
                fig.width = 7.252,
@@ -204,3 +206,32 @@ OBJETIVOS:
 
 ---
 class: inverse, middle, left
+---
+# Escala Cognitiva de las Actividades de la Vida Diaria
+
+.panelset[
+.panel[.panel-name[**Caracteristicas**]
+
+- Diseñada para población española (andaluza principalmente) para DCL, demencia y DCA.
+- Permite medir AVD básicas e Instrumentales
+- Permite medir hasta 8 ítems cognitivo-funcionales para cada AVD
+- Los mismos ítems se preguntan en las distintas AVD: permite medir todos los procesos incluso en personas que no hacen AVD instrumentales.
+- 2 Versiones: para Cuidador y Paciente.
+- Son preguntas sobre errores concretos e incluyen numerosos ejemplos de éstos, lo que permite al cuidador y paciente dar una información más válida y fiable
+]
+
+.panel[.panel-name[**Actividades incluidas en la escala**]
+
+- El protocolo incluye las siguientes ADL: __cepillarse los dientes, ducharse, maquillarse/afeitarse, ponerse vestido, cocinar, cuidado en el hogar (limpiar, fregar, colgar la ropa y poner la mesa), y manejo de finanzas/compras.__
+- La selección de actividades de ADL para incluir en el escala se basó en algunas de las BADL y IADL propuesto en el campo de la __terapia ocupacional__
+(Youngstrom et al., 2002).  
+- Tales actividades son incluidas en la clasificación realizada por la __Asociación Americana de Terapia Ocupacional (2008)__ y en la mayoría de las escalas globales tradicionales de funcionamiento diario comúnmente utilizado para el __diagnóstico clínico de demencia o DCL.__  
+]
+.panel[.panel-name[**Actividades incluidas en la escala**]
+
+
+]
+]
+
+
+ 
