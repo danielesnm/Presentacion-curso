@@ -235,11 +235,16 @@ class: inverse, middle, left
 ]
 
 ---
-class: inverse, middle, center
-background-image: url(https://iceebp.com/img/neuropsychological-assessment.jpeg)
+class:  middle, center
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/aplicacion.png?raw=true)
 background-size: cover
 
-# Administración
+.column.slide-in-left[
+<br><br><br>
+.sliderbox.vmiddle.shade_main.center[
+#Administración]]
+.column[
+]
 
 ---
 background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/frecuencia.png?raw=true)
