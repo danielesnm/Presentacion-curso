@@ -233,7 +233,8 @@ class: inverse, middle, left
 ]
 
 .panel[.panel-name[**Actividades incluidas en la escala**]
-![](https://github.com/danielesnm/Presentacion-curso/blob/main/img/paper2.png?raw=true)
+<img src="ihttps://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true" width="50%"/>
+
 
 ]
 ]
