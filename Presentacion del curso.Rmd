@@ -1,9 +1,9 @@
 ---
-title: "PROYECTO: Validación en población española de la Weekly Calendar Planning Activity y De Escala Cognitiva de las Actividades de la Vida Diaria"
-subtitle: "Población sana y con daño cerebral adquirido"
-author: "Author Name"
-institute: "NHS Organisation"
-date: "Presentation Date"
+title: "PROYECTO: Validación en población española de la Weekly Calendar Planning Activity y de la Escala Cognitiva de las Actividades de la Vida Diaria en poblacion sana y con DCA"
+subtitle: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria"
+author: "Centro de Investigación Mente Cerebro y Comportamiento"
+institute: "CIMCYC"
+date: "17 de febrero 2021"
 output:
   xaringan::moon_reader:
     css: 
@@ -211,7 +211,7 @@ class: inverse, middle, left
 
 ]
 
-.panel[.panel-name[**Actividades incluidas en la escala**]
+.panel[.panel-name[**Actividades**]
 
 - El protocolo incluye las siguientes ADL: 
 > 1. __Actividades de aseo personal__ (cepillarse los dientes, ducharse, maquillarse/afeitarse).
@@ -223,7 +223,7 @@ class: inverse, middle, left
 - Tales actividades son incluidas en la clasificación realizada por la __Asociación Americana de Terapia Ocupacional (2008)__ y en la mayoría de las escalas de funcionamiento diario tradicionales, utilizadas para el __diagnóstico clínico de demencia o DCL.__  
 ]
 
-.panel[.panel-name[**Items Cognitivos**]
+.panel[.panel-name[**Items cognitivos**]
 <img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true" width="700px">
 
 ]
@@ -233,6 +233,14 @@ class: inverse, middle, left
 
 ]
 ]
+
+---
+class: inverse, middle, center
+background-image: url(https://iceebp.com/img/neuropsychological-assessment.jpeg)
+background-size: cover
+
+# Administración
+
 ---
 background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/frecuencia.png?raw=true)
 background-position: 12% 50%
