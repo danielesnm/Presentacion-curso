@@ -214,7 +214,7 @@ class: inverse, middle, left
 .panel[.panel-name[**Actividades**]
 
 - El protocolo incluye las siguientes ADL: 
-> 1. __Actividades de aseo personal__ (cepillarse los dientes, ducharse, maquillarse/afeitarse).
+>1. __Actividades de aseo personal__ (cepillarse los dientes, ducharse, maquillarse/afeitarse).
 > 2. __Vestido.__
 > 3. __Preparación de comidas__ (desayuno almuerzo o cena).
 > 4. __Compras y organización económica de la casa.__
@@ -267,9 +267,12 @@ background-size: 40%
 - Los ítems cognitivos cotidianos asociados a una actividad para la cual el informante respondió la opción “Nunca” en el pasado o en el presente (en cuanto a la frecuencia con la que se realizó cada una de las actividades) no tienen que ser completados.]
 
 ---
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/aseo-personal.png?raw=true)
+background-position: 95% 75%
+background-size: 47%
 ## **Administración de la escala:**
 ----
-
+<br>
 .pull-left[- Se lee a los cuidadores directos (_cónyuges, hijas o hijos, etc._) y a los participantes por separado, una serie de frases que describen cómo lleva a cabo el paciente diversos aspectos de las tareas. 
 
 
@@ -279,11 +282,8 @@ background-size: 40%
 >**Con frecuencia (3)**  
 >**Siempre (4)**  
 
-_Puntuaciones más bajas se asocian con un mayor deterioro_
 
-- Asegurarnos de que los participantes pudan comprender las preguntas en función de criterios clínicos. 
-
-- Un profesional capacitado guió a informantes sobre los artículos y resolvió cualquier duda.] 
+- Asegurarse de que los participantes comprendan las preguntas y resolver cualquier duda.] 
 
 ---
 l
