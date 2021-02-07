@@ -65,7 +65,7 @@ class: title-slide, left, bottom
 Con gran experiencia trabajando en esta temática a través de varios proyectos financiados por la Junta de Andalucía y el Ministerio de Educación y Ciencia. 
 ]
 ]
-.panel[.panel-name[**Integrantes del equipo de investigación**]
+.panel[.panel-name[**Integrantes del laboratorio**]
 
 .pull-left[- Dra. María Jesús Funes Molina (**IP**)
 - Dra. María Rodriguez Bailón
@@ -108,19 +108,13 @@ background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main
 background-size: cover
 
 ---
-background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/AVD2.png?raw=true)
-background-position: 95% 50%
-background-size: 45%
-#Alteraciones cognitivo-funcionales en AVD
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/AVD2%20procesos.png?raw=true)
+background-position: 50% 78%
+background-size: 90%
+#Procesos cognitivos en AVD
 ----
---
 
-* Reconocimiento de objetos  
-* Praxias  
-* Memoria de la secuencia de acción  
-* Control ejecutivo (evitar distracciones, resolver imprevistos)  
-* Monitorización(Detección/corrección errores)  
-* Consciencia de las dificultades  
+
 
 ---
 background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/perfromancebased.png?raw=true)
@@ -130,8 +124,6 @@ background-size: 70%
 ## Transferencia en la evaluación neuropsicológica: El problema de la validez ecológica/predictiva
 ----
 
---
-
 .pull-left[>* Análisis componencial de procesos  
 * Teareas únicas  
 * Material artificial/novedoso: control experiencia previa  
@@ -139,8 +131,6 @@ background-size: 70%
 * Contexto artificial: laboratorio  
 * Dirigidas por terapeuta  
 ]
-
---
 
 .pull-right[>* Múltiples procesos interactúan entre sí  
 * Multitarea o Tareas con varios pasos secuenciales  
@@ -163,7 +153,7 @@ background-size: 50%
 - Toman medidas demasiado globales y __no permiten discriminar déficits cognitivos específicos.__ ]
 
 ---
-# Validación en población española de dos test de tipo cognitivo-funcional:
+# Validación en población española de dos test de tipo cognitivo-funcional
 
 .panelset[
 .panel[.panel-name[**Weekly Calendar Planning Activity**]
@@ -198,8 +188,14 @@ OBJETIVOS:
 
 ---
 class: inverse, middle, left
+
+# 1. Escala Cognitiva de Actividades de la Vida Diaria
+----
+# 2. Indice de Competencia del Paciente (ICP)
+
+
 ---
-## Escala Cognitiva de Actividades de la Vida Diaria.
+## Escala Cognitiva de Actividades de la Vida Diaria
 .panelset[
 .panel[.panel-name[**Caracteristicas**]
 
@@ -244,14 +240,14 @@ background-size: 40%
 
 
 
-.pull-right[## **Administración del instrumento**
+.pull-right[## **Administración de la escala:**
 ----
 - Al comienzo, se debe de preguntar a los informantes con qué frecuencia el participante realiza esa actividad en la actualidad y en el pasado (antes de ser diagnosticado o al menos dos años antes). 
 
 - Los ítems cognitivos cotidianos asociados a una actividad para la cual el informante respondió la opción “Nunca” en el pasado o en el presente (en cuanto a la frecuencia con la que se realizó cada una de las actividades) no tienen que ser completados.]
 
 ---
-## **Administración del instrumento**
+## **Administración de la escala:**
 ----
 
 .pull-left[- Se lee a los cuidadores directos (_cónyuges, hijas o hijos, etc._) y a los participantes por separado, una serie de frases que describen cómo lleva a cabo el paciente diversos aspectos de las tareas. 
