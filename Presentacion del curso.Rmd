@@ -58,9 +58,11 @@ class: title-slide, left, bottom
 .panelset[
 .panel[.panel-name[**CIMCYC**]
 
-.pull-left[<img src="https://attentionandconsciousness.files.wordpress.com/2017/06/logos.png?w=500" width="500px">]
+.pull-left[<br><br>
+<img src="https://attentionandconsciousness.files.wordpress.com/2017/06/logos.png?w=500" width="500px">]
 
-.pull-right[**Laboratorio de Neuropsicología y Actividades de la Vida Diaria (AVD)** del grupo de Neurociencia Cognitiva de _Centro de investigación Mente Cerebro y Comportamiento (CIMCYC)_, perteneciente a la **Universidad de Granada.** 
+.pull-right[<br><br>
+**Laboratorio de Neuropsicología y Actividades de la Vida Diaria (AVD)** del grupo de Neurociencia Cognitiva de _Centro de investigación Mente Cerebro y Comportamiento (CIMCYC)_, perteneciente a la **Universidad de Granada.** 
 
 Con gran experiencia trabajando en esta temática a través de varios proyectos financiados por la Junta de Andalucía y el Ministerio de Educación y Ciencia. 
 ]
@@ -167,9 +169,7 @@ background-size: 50%
 OBJETIVO:  
 Validarla en población Española de DCA para poder empezar a utilizarla en nuestros servicios. 
 
-??
-(Decir que ya tenemos completado el proceso de adaptación cultural: traducción inversa, visto Bueno de la adaptación por parte de la autora)
-a. 
+_Ya hemos realizado el proceso de adaptacion cultural siguiendo las recomendaciones de Wild, et al., (2005) y contamos con el permiso de la autora para validar el test en población española con DCA._ 
 ]
 
 .panel[.panel-name[**Escala Cognitiva de las Actividades de la Vida Diaria**]
@@ -191,7 +191,7 @@ class: inverse, middle, left
 
 # 1. Escala Cognitiva de Actividades de la Vida Diaria
 ----
-# 2. Indice de Competencia del Paciente (ICP)
+.right[(Rodríguez-Bailón, Montoro-Membila, Garcia-Morán, Arnedo-Montoro, Funes Molina, 2015)]
 
 
 ---
@@ -297,3 +297,47 @@ background-position: 50% 90%
 background-size: 90%
 ## **Actividades Instrumentales**
 ----
+
+---
+class: inverse, middle, left
+
+# 2. Indice de Competencia del Paciente (ICP)
+----
+
+---
+## 2. Indice de Competencia del Paciente (ICP)
+.panelset[
+.panel[.panel-name[**¿Qué mide?**]
+
+.pull-left[- Escala de autoreporte desarrollada con el fin de evaluar la __conciencia del déficit (self awareness)__ luego de un DCA. 
+
+- Particularmente se evalúan las __competencias__ en el desempeño de diversas tareas en diferentes ámbitos como: __calidad de vida, conducta, emoción, cognición y capacidad física.__
+
+- _La versión del familiar es idéntica a la del paciente_. El hecho de que sea completado por el paciente y por el informante permite la __comparación de la percepción del paciente sobre sus propias habilidades__, con la percepción de un otro (familiar) sobre las habilidades del paciente (Prigatano & Schacter 1991).]
+
+.pull-right[<br><br> <img src="https://arkeformacion.com/wp-content/uploads/2018/07/psicologo-clinico-pir-zaragoza.jpg" width="500px">]
+]
+
+.panel[.panel-name[**Características**]
+
+.pull-left[- **30 ítems** en los cuales paciente e informante (familiar o persona cercana) deben determinar el grado de dificultad que tiene el paciente en llevar a cabo actividades comportamentales. 
+
+- El grado de dificultad va desde _“no lo puedo hacer” a “ lo hago sin problema”_, en una escala de tipo likert de 1 a 5.
+
+- Algunas actividades son _fáciles de juzgar_ (ej “¿Cuánta dificultad tiene para vestirse él/ella mismo/a?”), mientras que _otras requieren de mayor insight_ (ej: ¿”Cuánta dificultad tiene para recordar lo que ha cenado la noche anterior?”, “¿Cuánta dificultad tiene para reconocer que ha dicho o hecho algo que molestó a alguien?”)]
+
+.pull-right
+
+]
+
+.panel[.panel-name[**Items cognitivos**]
+<img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true" width="700px">
+
+]
+
+.panel[.panel-name[**Propiedades psicometricas**]
+![](https://github.com/danielesnm/Presentacion-curso/blob/main/img/paper2.png?raw=true)
+
+]
+]
+---
