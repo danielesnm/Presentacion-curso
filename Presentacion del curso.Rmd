@@ -322,22 +322,37 @@ class: inverse, middle, left
 
 .pull-left[- **30 ítems** en los cuales paciente e informante (familiar o persona cercana) deben determinar el grado de dificultad que tiene el paciente en llevar a cabo actividades comportamentales. 
 
-- El grado de dificultad va desde _“no lo puedo hacer” a “ lo hago sin problema”_, en una escala de tipo likert de 1 a 5.
+- El grado de dificultad va desde __“no lo puedo hacer” a “ lo hago sin problema”__, en una escala de tipo likert de 1 a 5.
 
-- Algunas actividades son _fáciles de juzgar_ (ej “¿Cuánta dificultad tiene para vestirse él/ella mismo/a?”), mientras que _otras requieren de mayor insight_ (ej: ¿”Cuánta dificultad tiene para recordar lo que ha cenado la noche anterior?”, “¿Cuánta dificultad tiene para reconocer que ha dicho o hecho algo que molestó a alguien?”)]
+- Algunas actividades son __fáciles de juzgar__ (ej “¿Cuánta dificultad tiene para vestirse él/ella mismo/a?”), mientras que __otras requieren de mayor insight__ (ej: ¿”Cuánta dificultad tiene para recordar lo que ha cenado la noche anterior?”, “¿Cuánta dificultad tiene para reconocer que ha dicho o hecho algo que molestó a alguien?”)]
 
-.pull-right
-
+.pull-right[<br><br> <img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/ICPcaracteristicas.png?raw=true" width="500px">
+]
 ]
 
-.panel[.panel-name[**Items cognitivos**]
-<img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/items-procesos.png?raw=true" width="700px">
 
-]
+.panel[.panel-name[**Puntuación**]
+- Cada ítem del ICP (30) es puntuado del 1 al 5, siendo el total 150; _a mayor puntaje, mayor competencia._
 
-.panel[.panel-name[**Propiedades psicometricas**]
-![](https://github.com/danielesnm/Presentacion-curso/blob/main/img/paper2.png?raw=true)
+La escala brinda 3 puntajes
+> 1. Puntaje total sobre todos los ítems de cada sujeto (paciente y familiar).  
+> 2. El número de ítems donde el paciente es más alto que el familiar, el número de ítems donde el familiar es más alto que el paciente y el número de ítems en los que puntearon distinto.  
+>3. La diferencia entre los puntajes de cada uno.  
 
-]
+**Este último puntaje sería el que nos brindaría la información acerca de la conciencia del déficit:** ej. 51 Déficit Severo.]
 ]
 ---
+class:  middle, center
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/aplicacion.png?raw=true)
+background-size: cover
+
+.column.slide-in-left[
+<br><br><br>
+.sliderbox.vmiddle.shade_main.center[
+#Administración de la escala]]
+.column[
+]
+---
+
+
+
