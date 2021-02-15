@@ -93,6 +93,15 @@ __- Weekly Calendar Planning Activity__
 __- Escala Cognitiva de las Actividades de la Vida Diaria__
 ]
 
+.panel[.panel-name[**Centros Participantes en este proyecto**]
+.black[- Hospital Marítimo de Torremolinos]
+.black[- Hospital Civil de Málaga]
+.black[- Hospital Universitario Juan Ramón Jiménez de Huelva]
+.black[- Hospital de NeuroTraumatología y Rehabilitación de Granada]
+.black[- Centro de Rehabilitación del Daño Cerebral, AGREDACE] 
+.black[- AISSE Sinergia - Centro De Rehabilitación en Granada]
+]
+
 .panel[.panel-name[**Solicitamos**]
 
 Evaluar a pacientes con daño cerebral adquirido para validar las dos herramientas.
@@ -108,17 +117,7 @@ Evaluar a pacientes con daño cerebral adquirido para validar las dos herramient
 -	Presencia de alteraciones motoras o perceptivas que impidan la realización de actividades.
 -	Afasia.
 
-]
-
-.panel[.panel-name[**Centros Participantes en este proyecto**]
-.black[- Hospital Marítimo de Torremolinos]
-.black[- Hospital Civil de Málaga]
-.black[- Hospital Universitario Juan Ramón Jiménez de Huelva]
-.black[- Hospital de NeuroTraumatología y Rehabilitación de Granada]
-.black[- Centro de Rehabilitación del Daño Cerebral, AGREDACE] 
-.black[- AISSE Sinergia - Centro De Rehabilitación en Granada]
-]
-]
+]]
 
 ---
 background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/AVD.png?raw=true)
