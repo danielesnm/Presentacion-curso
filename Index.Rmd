@@ -334,7 +334,7 @@ class: inverse, middle, left
 
 - Particularmente se evalúan las __competencias__ en el desempeño de diversas tareas en diferentes ámbitos como: __calidad de vida, conducta, emoción, cognición y capacidad física.__
 
-- _La versión del familiar es idéntica a la del paciente_. El hecho de que sea completado por el paciente y por el informante permite la __comparación de la percepción del paciente sobre sus propias habilidades__, con la percepción de un otro (familiar) sobre las habilidades del paciente (Prigatano & Schacter 1991).]
+- _La versión del familiar es idéntica a la del paciente_. El hecho de que sea completado por ambos, permite la __comparación de la percepción del paciente sobre sus propias habilidades__, con la de un familiar [(Prigatano & Schacter 1991).](https://psycnet.apa.org/record/1991-97649-000)]
 
 .pull-right[<br><br> <img src="https://arkeformacion.com/wp-content/uploads/2018/07/psicologo-clinico-pir-zaragoza.jpg" width="600px">]
 ]
@@ -409,3 +409,27 @@ background-size: 50%
 ## **Administración de la escala:**
 ----
 
+---
+background-image: url(https://image.freepik.com/vector-gratis/ilustracion-ilustracion-concepto-personas-que-hacen-preguntas-frecuentes-sobre-signos-interrogacion-respuesta-pregunta-metafora-ilustracion-estilo-plano-pagina-web-redes-sociales_126608-227.jpg)
+background-position: 50% 50%
+background-size: 80%
+
+---
+class: bg-main1 
+
+# **Referencias**
+----
+
+- Romero-Ayuso, D., Castillero-Perea, Á., González, P., Navarro, E., Molina-Massó, J. P., Funes, M. J., Ariza-Vega, P., Toledano-González, A., & Triviño-Juárez, J. M. (2019). _Assessment of cognitive instrumental activities of daily living: a systematic review_. Disability and rehabilitation, 1–17.
+
+- Goverover, Y., Toglia, J., & DeLuca, J. (2020). _The weekly calendar planning activity in multiple sclerosis: A top-down assessment of executive functions_. Neuropsychological rehabilitation, 30(7), 1372–1387.
+
+- Wild, D., Grove, A., Martin, M., Eremenco, S., McElroy, S., Verjee-Lorenz, A., Erikson, P. (2005). _Principles of Good Practice for the Translation and Cultural Adaptation Process for Patient-Reported Outcomes (PRO)._ Journal of the International Society for Pharmacoeconomics and Outcomes Research, 8(2), 94–104.
+
+- Rodríguez-Bailón, M., Montoro-Membila, N., Garcia-Morán, T., Arnedo-Montoro, M. L., & Funes Molina, M. J. (2015). _Preliminary cognitive scale of basic and instrumental activities of daily living for dementia and mild cognitive impairment._ Journal of clinical and experimental neuropsychology, 37(4), 339–353.
+
+- Youngstrom, M. J. (2002). _The Occupational Therapy Practice Framework: the evolution of our professional language._ American Journal of Occupational Therapy, 56(6), 607-608.
+
+- American Occupational Therapy Association. (2008). _Occupational therapy practice freamework: Domain & Process 2nd edition_. Am J Occup Ther, 62, 625-683.
+
+- Prigatano, G. P., & Schacter, D. L. (Eds.). (1991). _Awareness of deficit after brain injury: Clinical and theoretical issues._ Oxford University Press.
