@@ -1,9 +1,9 @@
 ---
 title: "PROYECTO (MINECO, ref: PSI2016-80331-P): Validación en población española de la APHS y de la Escala Cognitiva de las Actividades de la Vida Diaria en poblacion sana y con DCA"
-subtitle: "Grupo de Neurociencia Cognitiva"
-author: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria"
-institute: "Universidad de Granada"
-date: "17 de febrero 2021"
+subtitle: "17 de febrero 2021"
+author: 
+institute: 
+date: 
 output:
   xaringan::moon_reader:
     css: 
@@ -82,13 +82,13 @@ Con gran experiencia trabajando en esta temática a través de varios proyecto
 ]
 
 
-.panel[.panel-name[**Centros Participantes en este proyecto**]
+.panel[.panel-name[**Centros participantes en este proyecto**]
 .black[- Hospital Marítimo de Torremolinos]
 .black[- Hospital Civil de Málaga]
 .black[- Hospital Universitario Juan Ramón Jiménez de Huelva]
 .black[- Hospital de NeuroTraumatología y Rehabilitación de Granada]
-.black[- Centro de Rehabilitación del Daño Cerebral, AGREDACE] 
-.black[- AISSE Sinergia - Centro De Rehabilitación en Granada]
+.black[- Asociación Granadina de Familias por la Rehabilitacion del Daño Cerebral Adquirido, AGREDACE] 
+.black[- Centro Sinergia AISSE de Granada]
 ]
 
 .panel[.panel-name[**Solicitamos**]
