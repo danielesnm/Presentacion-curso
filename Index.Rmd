@@ -329,7 +329,7 @@ class: inverse, middle, left
 .panelset[
 .panel[.panel-name[**¿Qué mide?**]
 
-.pull-left[- Escala de autoreporte desarrollada con el fin de evaluar la __conciencia del déficit (self awareness)__ luego de un DCA. 
+.pull-left[- Escala de autoreporte desarrollada con el fin de evaluar la __conciencia del déficit__ luego de un DCA. 
 
 - Particularmente se evalúan las __competencias__ en el desempeño de diversas tareas en diferentes ámbitos como: __calidad de vida, conducta, emoción, cognición y capacidad física.__
 
