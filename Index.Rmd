@@ -106,7 +106,7 @@ background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main
 background-position: 40% 100%
 background-size: 70%
 
-## Transferencia en la evaluación neuropsicológica: El problema de la validez ecológica/predictiva
+## Transferencia en la evaluación neuro-cognitiva: El problema de la validez ecológica/predictiva
 ----
 
 .pull-left[>* Análisis componencial de procesos  
