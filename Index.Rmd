@@ -87,7 +87,7 @@ Con gran experiencia trabajando en esta temática a través de varios proyecto
 .black[- Servicio de Medicina Física y Rehabilitación, Unidad de Fisioterapia - Hospital Virgen de la Victoria, Málaga]
 .black[- Hospital Civil de Málaga]
 .black[- Unidad de Neuro-Rehabilitación de adultos Hospital Vázquez Díaz - Hospital  Juan Ramón Jiménez, Huelva]
-.black[- Hospital de NeuroTraumatología y Rehabilitación de Granada]
+.black[- Unidad de Rehabilitación Neurológica - Hospital de NeuroTraumatología y Rehabilitación de Granada]
 .black[- Asociación Granadina de Familias por la Rehabilitación del Daño Cerebral Adquirido, AGREDACE, Granada] 
 .black[- Centro Sinergia AISSE, Granada]
 ]]
@@ -158,7 +158,9 @@ background-size: 50%
 ]
 
 .panel[.panel-name[**Escala Cognitiva de las Actividades de la Vida Diaria**]
-- Mide distintos __procesos cognitivos__ que impactan tanto en _AVD básicas como Instrumentales._ 
+.left-column[<img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/Escala%20cognitiva%20AVD.png?raw=true" width="300px">] 
+
+.right-column[- Mide distintos __procesos cognitivos__ que impactan tanto en _AVD básicas como Instrumentales._ 
 - Escala creada en __nuestro grupo de investigación.__ 
 - __Creada y validada__ con población española, con distintos trastornos como __Demencia, y Deterioro Cognitivo Leve.__ 
 - Buenas propiedades psicométricas [(Rodríguez-Bailón, et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25805061/).  
@@ -167,7 +169,7 @@ background-size: 50%
 
 **OBJETIVOS:**
 1. Validarla en DCA
-2. Validar su utilidad para medir anosognosia: Discrepancia entre versión paciente y versión cuidador principal.
+2. Validar su utilidad para medir anosognosia: Discrepancia entre versión paciente y versión cuidador principal.]
 ]
 
 .panel[.panel-name[**Solicitamos**]
