@@ -143,6 +143,9 @@ background-size: 50%
 .panelset[
 .panel[.panel-name[**Weekly Calendar Planning Activity**]
 
+.left-column[<img src="https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/1.%20WCPA%20imagen.png?raw=true" width="300px">]  
+
+.right-column[### **Actividad de Planificacion del Horario Semanal, APHS**
 - Mide __funciones ejecutivas__ en el _contexto de una tarea cotidiana_.  
 - Creada por __Joan Toglia__, **TO de la Universidad Mercy College, NY, USA.**  
 - __Traducida__ y validada en distintas culturas: __holandes, chino, hebreo, sueco.__ 
@@ -150,9 +153,8 @@ background-size: 50%
 - Tiene muy buenas propiedades psicométricas y de aceptación por parte de pacientes y terapeutas [(Goverover, Toglia & DeLuca, 2020).](https://pubmed.ncbi.nlm.nih.gov/30810484/)
 
 **OBJETIVO:**
-1. Validarla en población Española de DCA para poder empezar a utilizarla en nuestros servicios. 
+1. Validarla en población Española de DCA para poder empezar a utilizarla en nuestros servicios. Ya hemos realizado el **proceso de adaptacion cultural** siguiendo las recomendaciones de [Wild, et al., (2005)](https://pubmed.ncbi.nlm.nih.gov/15804318/) y contamos con el permiso de la autora para validar el test en población española con DCA.]
 
-Ya hemos realizado el **proceso de adaptacion cultural** siguiendo las recomendaciones de [Wild, et al., (2005)](https://pubmed.ncbi.nlm.nih.gov/15804318/) y contamos con el permiso de la autora para validar el test en población española con DCA. 
 ]
 
 .panel[.panel-name[**Escala Cognitiva de las Actividades de la Vida Diaria**]
@@ -170,11 +172,11 @@ Ya hemos realizado el **proceso de adaptacion cultural** siguiendo las recomenda
 
 .panel[.panel-name[**Solicitamos**]
 
-- **Evaluar a pacientes con daño cerebral adquirido con alteraciones cognitivo-funcionales** para validar en población española las dos herramientas de evaluación (según varios criterios de inclusión/exclusión que os indicaremos más adelante) 
+- **Evaluar a pacientes con daño cerebral adquirido con alteraciones cognitivo-funcionales** para validar en población española las dos herramientas de evaluación (según varios criterios de inclusión/exclusión que os indicaremos más adelante). 
 
 - Darnos vuestro **feedback experto** sobre la idoneidad/aceptabilidad de las pruebas.
 
-- **Hacer transferencia de la investigación a la clínica:** Una vez concluido el estudio y obtenidos los resultados, estas pruebas podrán ser utilizadas por vuestros servicios como prueba
+- **Hacer transferencia de la investigación a la clínica:** Una vez concluido el estudio y obtenidos los resultados, estas pruebas podrán ser utilizadas por vuestros servicios como prueba.
 ]
 ]
 ---
