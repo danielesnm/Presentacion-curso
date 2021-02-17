@@ -93,9 +93,9 @@ Con gran experiencia trabajando en esta temática a través de varios proyecto
 ]]
 
 ---
-background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/AVD2%20procesos.png?raw=true)
-background-position: 50% 78%
-background-size: 90%
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/cepillarse.png?raw=true)
+background-position: 50% 98%
+background-size: 80%
 #Procesos cognitivos en AVD
 ----
 
@@ -202,7 +202,7 @@ class: inverse, middle, left
 
 - Pregunta sobre errores concretos e incluye numerosos ejemplos, lo que permite al cuidador y paciente dar una __información más válida y fiable.__]
 
-.pull-right[<img src="https://thumbs.dreamstime.com/b/tercero-familiar-tomando-notas-mientras-consulta-una-pareja-terapia-el-concepto-de-matrimonio-divorcio-familia-o-relaciones-165736162.jpg" width="500px">]
+.pull-right[<img src="https://psicologiaymundo.com/wp-content/uploads/2020/10/3545798-1.jpg" width="500px">]
 
 ]
 
@@ -313,7 +313,7 @@ class: inverse, middle, left
 
 - _La versión del familiar es idéntica a la del paciente_. El hecho de que sea completado por ambos, permite la __comparación de la percepción del paciente sobre sus propias habilidades__, con la de un familiar [(Prigatano & Schacter 1991).](https://psycnet.apa.org/record/1991-97649-000)]
 
-.pull-right[<br><br> <img src="https://arkeformacion.com/wp-content/uploads/2018/07/psicologo-clinico-pir-zaragoza.jpg" width="600px">]
+.pull-right[<br><br> <img src="https://saludmentalenlinea.com/wp-content/uploads/2018/04/psicologa-visitante-mujer_74855-4824-540x347.jpg" width="600px">]
 ]
 
 .panel[.panel-name[**Características**]
