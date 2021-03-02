@@ -529,6 +529,14 @@ background-size:85%
 >- **Esta información ya estará incluida en los documentos de evaluación para que sea completada**
 ]
 ---
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/info%20paciente.png?raw=true)
+background-position: 50% 50%
+background-size: 60%
+---
+background-image: url(https://github.com/danielesnm/Presentacion-curso/blob/main/img/info%20familiar.png?raw=true)
+background-position: 50% 50%
+background-size: 80%
+---
 background-image: url(https://www.cajasietecontunegocio.com/images/recursos-humanos/10-preguntas.png)
 background-position: 50% 50%
 background-size: 80%
