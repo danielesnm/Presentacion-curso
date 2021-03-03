@@ -1,6 +1,6 @@
 ---
 title: "PROYECTO (MINECO, ref: PSI2016-80331-P): Validación en población española de la APHS y de la Escala Cognitiva de las Actividades de la Vida Diaria en poblacion sana y con DCA"
-subtitle: "2 de marzo 2021"
+subtitle: "3 de marzo 2021"
 author: 
 institute: 
 date: 
@@ -75,11 +75,15 @@ Con gran experiencia trabajando en esta temática a través de varios proyecto
 
 .pull-left[- Dra. María Jesús Funes Molina (**IP**)
 - Dra. María Rodriguez Bailón
+- Dra. Dulce Romero Ayuso (profesora en terapia ocupacional)
 - Dr. José Antonio Merchán Baéza
 - Daniel Salazar Frías (estudiante predoctoral)
 - Giorgia Ricchetti (estudiante predoctoral) 
 - Alba Navarro Egido (estudiante predoctoral)
 - Ana Szot, TO
+
+Colaboradora
+- Dra. Patrocinio Ariza Vega (profesora en terapia ocupacional)
 ]
 
 .pull-right[<img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/equipo.jpg?raw=true" width="500px">]
@@ -185,6 +189,31 @@ background-size: 50%
 - **Hacer transferencia de la investigación a la clínica:** Una vez concluido el estudio y obtenidos los resultados, estas pruebas podrán ser utilizadas por vuestros servicios como prueba.
 ]
 ]
+
+---
+# **Criterios Generales**
+
+
+.pull-left[.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
+##Inclusión]
+- **Diagnóstico de Daño Cerebral Adquirido** (TCE, accidente cerebrovascular, etc.) al menos tres meses antes del estudio.
+
+- Presentar **déficits cognitivos** en algún área (funciones ejecutivas, metacognición y/o memoria) aunque puedan ser muy sutiles.
+
+- Ser **mayores de 18 años.** 
+]
+
+.pull-right[.bg-washed-red.b--dark-red.ba.bw2.br3.shadow-5.ph4.mt5[
+##Exclusión]
+- Presencia de **déficits visuoperceptivos graves** que impidan leer o escribir.
+
+- Presencia de **heminegligencia atencional**.
+
+- **Afasia**.
+
+- **Alteración cognitiva grave** que le impida dar su consentimiento informado de forma libre.
+]
+
 ---
 class: inverse, middle, left
 
