@@ -1,5 +1,5 @@
 ---
-title: "PROYECTO (MINECO, ref: PSI2016-80331-P): Validación en población española de la APHS y de la Escala Cognitiva de las Actividades de la Vida Diaria en poblacion sana y con DCA"
+title: "PROYECTO (MINECO, ref: PSI2016-80331-P): Validación en población española de la APHS y de la Escala Cognitiva de las Actividades de la Vida Diaria en población sana y con DCA"
 subtitle: "3 de marzo 2021"
 author: 
 institute: 
