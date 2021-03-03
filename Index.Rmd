@@ -241,7 +241,7 @@ class: inverse, middle, left
 
 .panel[.panel-name[**Actividades**]
 
-- El protocolo incluye las siguientes ADL: 
+- El protocolo incluye las siguientes actividades: 
 >1. __Actividades de aseo personal__ (cepillarse los dientes, ducharse, maquillarse/afeitarse).
 > 2. __Vestido.__
 > 3. __Preparación de comidas__ (desayuno almuerzo o cena).
