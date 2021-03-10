@@ -1,6 +1,6 @@
 ---
 title: "Herramientas de evaluación cognitivo-funcionales para pacientes con daño cerebral adquirido; proyecto PSI2016-80331-P"
-subtitle: "3 de marzo 2021"
+subtitle: "10 de marzo 2021"
 author: 
 institute: 
 date: 
@@ -27,6 +27,10 @@ xaringanExtra::use_panelset()
 
 ```{r xaringan-tachyons, echo=FALSE}
 xaringanExtra::use_tachyons()
+```
+
+```{r xaringan-scribble, echo=FALSE}
+xaringanExtra::use_scribble()
 ```
 
 ```{r setup, include = FALSE}
